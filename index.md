@@ -8,7 +8,7 @@
 layout: home
 ---
 
-Webpage for Team Elephant for Human Computer Interaction (Fall 2018)!
+## Team Elephant!
 
 ![Team animal](https://raw.githubusercontent.com/jushkem/team-elephant/master/elephant.jpeg)
 
