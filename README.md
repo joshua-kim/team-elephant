@@ -19,4 +19,4 @@ If you'd like to preview the theme locally (for example, in the process of propo
 2. `cd` into the theme's directory
 3. Run `script/bootstrap` to install the necessary dependencies
 4. Run `script/server` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+5. Visit [`localhost:4000/team-elephant`](http://localhost:4000/team-elephant) in your browser to preview the theme
