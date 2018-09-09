@@ -1,3 +1,1 @@
-Weird bug on loading home.md where the first header in the last phase on the page will get rendered for some reason.
-
-Make phase 0 at the top and phase 4 at the bottom
+Add teammates github urls
