@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: More about Team Elephant! 
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+This is the webpage for Team Elephant for the Fall 2018 semester for CS 3205 - Human Computer Interaction.
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
+You can find the source code for this webpage [here](https://github.com/jushkem/team-elephant)
 
+{{ site.team }}
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
