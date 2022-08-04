@@ -7,7 +7,7 @@ Webpage for Team Elephant for Human Computer Interaction (Fall 2018)!
 ### Team members:
 * [Caroline Chong](https://github.com/Exokaroline)
 * [Vivien Chen](https://github.com/viv-chen)
-* [Joshua Kim](https://github.com/jushkem)
+* [Joshua Kim](https://github.com/joshua-kim)
 * [Benjamin Ormond](https://github.com/bwo3db)
 * [Nathan Park](https://github.com/nyp5aa)
 
